@@ -32,6 +32,7 @@ to execute the interpreter you must:
 - execute with file location and size of buffer
   example: ./JPlus test.txt 200
             execute test.txt with buffer size 200
+ Good luck and enjoy
 
 
 
